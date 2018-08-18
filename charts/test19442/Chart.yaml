@@ -1,6 +1,7 @@
 apiVersion: v1
 appVersion: "1.0"
 description: A Helm chart for Kubernetes
-name: test19442
+name: 彭冰冰
+no:19442
 version: 0.1.0
 

@@ -1,5 +1,5 @@
 server:
-  port: 18080
+  port: 19442
 spring:
   application:
     name: test19442

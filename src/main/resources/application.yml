@@ -77,4 +77,7 @@ mybatis:
   mapperLocations: classpath*:/mapper/*.xml
   configuration: # 数据库下划线转驼峰配置
     mapUnderscoreToCamelCase: true
+user:
+  username: 彭冰冰
+  numb: 19442
 
